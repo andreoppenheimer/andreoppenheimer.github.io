@@ -15,32 +15,29 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2023: Administrative Assistant
+  * Städtregion Aachen:
+    * Department of Immigration 
+    * Deparment of Sanitation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Technical and language skills
 ======
 * Programming - Python, Matlab, CSS, Java, JavaScript, HTML, SQL, Markdown, R, Pure Data, Max/MSP, Scheme 
 * Data Management - Git, OSF.io
 * Data Collection - Qualtrics, Limesurvey
+* Document - LaTeX, Microsoft Office
+* OS - Linux, iOS, Windows
 * Research Tools: 
   * Linguistics - Praat, BERT, LDA, FL Studio, Audacity, Llama-4-Scout-17B-16E-Instruct, OPENAI API, Whisper ASR, NVIDIA Parakeet, Wav2vec, Festival TTS
   * Bioinformatics - Mesquite, SplitsTree, DensiTree, FigTree, Tracer, BEAUTi, BEAST 2, Count, GLOOME
-  * Sub-skill 2.3
-* Document - LaTeX, Microsoft Office
-* OS - Linux, iOS, Windows
+* Languages: 
+  * German - Native Speaker
+  * English - C2
+  * Spanish - C2
+  * Russian - A2
+  * French - A2
 
 Publications
 ======
@@ -62,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
