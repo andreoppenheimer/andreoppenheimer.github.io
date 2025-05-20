@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. with a major in English and American Studies and a minor in Romance Studies, Heinrich Heine University, 2025
 
 Work experience
 ======
@@ -32,14 +30,17 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Technical and language skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Programming - Python, Matlab, CSS, Java, JavaScript, HTML, SQL, Markdown, R, Pure Data, Max/MSP, Scheme 
+* Data Management - Git, OSF.io
+* Data Collection - Qualtrics, Limesurvey
+* Research Tools: 
+  * Linguistics - Praat, BERT, LDA, FL Studio, Audacity, Llama-4-Scout-17B-16E-Instruct, OPENAI API, Whisper ASR, NVIDIA Parakeet, Wav2vec, Festival TTS
+  * Bioinformatics - Mesquite, SplitsTree, DensiTree, FigTree, Tracer, BEAUTi, BEAST 2, Count, GLOOME
   * Sub-skill 2.3
-* Skill 3
+* Document - LaTeX, Microsoft Office
+* OS - Linux, iOS, Windows
 
 Publications
 ======
